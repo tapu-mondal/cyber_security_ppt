@@ -13,7 +13,7 @@
 
 <p><b>Topic:</b> Basics of DBMS</p>
 
-<a href="https://drive.google.com/file/d/16nsLge8Of94S0yKRN4Et6J1FdIVsg2qb/view?usp=drive_link" target="_blank">
+<a href="https://docs.google.com/presentation/d/1tVN1_cOBirQVqjYGQ58c9wKWqNbuKbtA/edit?usp=sharing&ouid=114209976260585881545&rtpof=true&sd=true" target="_blank">
   <img src="https://img.shields.io/badge/View-Presentation-blue?style=for-the-badge&logo=google-drive" />
 </a>
 
